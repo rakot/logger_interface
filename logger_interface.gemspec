@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = LoggerInterface::VERSION
   spec.authors       = ["Sergey Vardanyan"]
   spec.email         = ["rakot.ss@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Interface for Logapper application}
+  spec.summary       = %q{Interface for Logapper application}
   spec.homepage      = ""
   spec.license       = "MIT"
 
